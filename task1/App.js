@@ -1,0 +1,17 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var Calculate_1 = require("./Calculate");
+var Chicken_1 = require("./Models/Chicken");
+var Cow_1 = require("./Models/Cow");
+var Duck_1 = require("./Models/Duck");
+var Goat_1 = require("./Models/Goat");
+var cal = new Calculate_1.Calculate();
+var days = 50;
+var chicken = new Chicken_1.Chicken("Loli");
+var duck = new Duck_1.Duck("Herold");
+var cow = new Cow_1.Cow("Riska");
+var goat = new Goat_1.Goat("Rizi");
+console.log(cal.getYield(chicken, days));
+console.log(cal.getYield(duck, days));
+console.log(cal.getYield(cow, days));
+console.log(cal.getYield(goat, days));
