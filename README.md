@@ -16,4 +16,27 @@ We have annimals:
 
 FizzBuzz with interface. Create FizzBuzz with classes.
 
+#Task 3
 
+    Vegetable:
+        - Box
+        - kg price
+    Fruit:
+        - Basket
+        - piece price
+    
+    Apple:
+        - Fruit
+        - 0.4 $
+    
+    Cherry:
+        - Fruit
+        - 1.2 $
+    
+    Carrot:
+        - Vegetable
+        - 0.3 $
+    
+    Potato:
+        - Vegetable
+        - 0.5 $
