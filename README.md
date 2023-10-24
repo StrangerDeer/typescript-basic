@@ -10,3 +10,10 @@ We have annimals:
     - Goat: 1l milk / 7day
     - Chicken: 1 eggs / day
     - Duck: 3 eggs / 10day
+
+
+#Task 2
+
+FizzBuzz with interface. Create FizzBuzz with classes.
+
+
