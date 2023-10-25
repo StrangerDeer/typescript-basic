@@ -40,3 +40,48 @@ FizzBuzz with interface. Create FizzBuzz with classes.
     Potato:
         - Vegetable
         - 0.5 $
+
+#Task 4
+
+    3 Vehicle:
+
+    Car, Bus, Truck
+
+    3 Road type:
+
+    City Road, HighWay, Country Road
+
+    Car: 50km/h, 120km/h, 90km/h
+    Bus: 50km/h, 100km/h, 70km/h
+    Truck: 50km/h, 110km/h, 70km/h
+
+    Highway needs ticket
+    Every vehicle needs licence plate
+
+    ticket check with licence plate
+
+    every road has a methode, that make speed for Vehicle
+
+#Task 5 
+
+    Player: can pick up weapon, and item, basic attack 1dmg, 100HP
+
+    Enemy:
+
+    Skeleton:
+        50hp
+        2 dmg
+    
+    Zombie:
+        80hp
+        5dmg
+    
+    spider:
+        90hp
+        10dmg
+
+    Weapons:
+
+    Sword:
+        10dmg
+        
