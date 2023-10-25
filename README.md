@@ -84,4 +84,20 @@ FizzBuzz with interface. Create FizzBuzz with classes.
 
     Sword:
         10dmg
+    
+    Spear:
+        15dmg
+    
+    Hammer:
+        30dmg
+    
+    Item:
+
+    Apple:
+        Heal 10Hp
+    
+    Banana:
+        Heal 20HP
+    
+    
         
